@@ -1,0 +1,2 @@
+bcc32 ./GOROOVECORSTAR.c ./note.c
+GOROOVECORSTAR.exe
